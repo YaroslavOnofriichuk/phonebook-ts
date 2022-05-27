@@ -8,8 +8,6 @@ WebFont.load({
 });
 
 export const MainSection = styled.main`
-  @import "normalize.css";
-
   margin: 0 auto;
   max-width: 400px;
 
@@ -18,6 +16,4 @@ export const MainSection = styled.main`
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-
-  /* border: 2px solid tomato; */
 `;
